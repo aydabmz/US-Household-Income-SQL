@@ -45,3 +45,7 @@ The work focuses on removing duplicates, correcting data quality issues, standar
 ## Next Steps  
 - Create state-level and city-level income visualizations in Tableau or Power BI.  
 - Explore correlations between geographic factors and income levels.  
+
+---
+
+*Data provided for learning purposes (course materials). Credit: AnalystBuilder / Alex Freberg.*
